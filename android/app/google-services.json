@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "270146548357",
+    "project_id": "spraw-dbe01",
+    "storage_bucket": "spraw-dbe01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270146548357:android:7e98ff3b80b6174a986fec",
+        "android_client_info": {
+          "package_name": "com.example.raw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270146548357-annqh3atbi2anti0963vjkf9n15pse2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raw",
+            "certificate_hash": "59952ceea3907454f17deadd81c26720c30ddffe"
+          }
+        },
+        {
+          "client_id": "270146548357-kkai451s100316id858cvp115tlfo3lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi9M0g_NZ0KQjDcvsobzomclWPBem4F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270146548357-kkai451s100316id858cvp115tlfo3lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
